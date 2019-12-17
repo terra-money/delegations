@@ -34,6 +34,6 @@ Terraform Labs wants to support validators who contribute to the security of the
 ## Delegation/Undelegation process 
 
 - Delegation changes will take place every 3 months, and will take effect on the last day of every quarter. 
-- To qualify for additional delegations, validators must submit a proposal (format here) to be reviewed by a rotating council consisting of the core team and major validators by D-14 days from the next delegation change date.
+- To qualify for additional delegations, validators must submit a proposal (format (here)[./templates/proposal_template]) to be reviewed by a rotating council consisting of the core team and major validators by D-14 days from the next delegation change date.
 - Every quarter, Terraform labs will target to reduce its number of total staked tokens by 10M. Therefore, should `period_undelegated_tokens` - `period_new_delegated_tokens` < 10M, undelegations will occur from one of the Terraform Labs controlled Starcraft validators to make up for the difference. 
 
